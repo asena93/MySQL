@@ -23,7 +23,7 @@ insert into tb_produtos (nome, preco_unitario, quantidade_estoque, marca)
     insert into tb_produtos (nome, preco_unitario, quantidade_estoque, marca) 
 	values ("Galaxy S21 128GB", 4420.00, 50, "Samsung");
     
-    insert into tb_produtos (nome, preco_unitario, quantidade_estoque, marca) 
+    insert into tb_produtos (nome, prectb_produtostb_produtoso_unitario, quantidade_estoque, marca) 
 	values ("Galaxy S21 Ultra 128GB", 6600.00, 50, "Samsung");
     
     insert into tb_produtos (nome, preco_unitario, quantidade_estoque, marca) 
